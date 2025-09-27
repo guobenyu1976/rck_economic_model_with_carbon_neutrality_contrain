@@ -40,7 +40,7 @@ A comprehensive simulation and visualization of the Ramsey-Cass-Koopmans (RCK) m
 
 1.  **Clone the repository and navigate into the directory.**
     ```bash
-    git clone https://github.com/你的用户名/rck-economic-model-simulation.git
+    git clone https://github.com/guobenyu1976/rck-economic-model-simulation.git
     cd rck-economic-model-simulation
     ```
 2.  **Install the necessary libraries.**
@@ -52,5 +52,6 @@ A comprehensive simulation and visualization of the Ramsey-Cass-Koopmans (RCK) m
     python main_simulation.py
     ```
 4.  The output plots will be saved in the `results` folder.
+
 
 ---
